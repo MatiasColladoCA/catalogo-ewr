@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "axios": "^1.8.4"
-  }
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  },
+  "scripts": {
+  "start": "concurrently \"cd server && nodemon app.js\" \"cd client && npm start\""
+}
+
 }
