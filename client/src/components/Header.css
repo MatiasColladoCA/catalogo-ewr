@@ -1,18 +1,41 @@
 header.header {
-  background: rgba(29, 46, 40, 0.5); /* Color semitransparente */
-  backdrop-filter: blur(10px);
-  padding: 2rem 2rem;
-  border-bottom: 1px solid rgba(24, 57, 43, 0.3); /* Borde semitransparente */
   position: sticky;
   top: 0;
   z-index: 1000;
   transition: all 0.3s ease;
 }
 
-header.header.scrolled {
-  padding: 1.33rem 2rem;
-  background: rgba(29, 46, 40, 0.7); /* Más opaco al hacer scroll */
+header.header::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(29, 46, 40, 0.5);
   backdrop-filter: blur(10px);
+  -webkit-mask: linear-gradient(to bottom, 
+    rgba(0,0,0,1) 0%, 
+    rgba(0,0,0,0.3) 100%);
+  mask: linear-gradient(to bottom, 
+    rgba(0,0,0,1) 0%, 
+    rgba(0,0,0,0.3) 100%);
+  pointer-events: none;
+  border-bottom: 1px solid rgba(24, 57, 43, 0.3);
+}
+
+header.header.scrolled::before {
+  background: rgba(29, 46, 40, 0.7);
+  backdrop-filter: blur(15px);
+}
+
+.header-content {
+  position: relative;
+  padding: 2rem 2rem;
+}
+
+header.header.scrolled .header-content {
+  padding: 1.33rem 2rem;
 }
 
 .header-content {

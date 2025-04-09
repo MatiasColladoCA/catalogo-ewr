@@ -1,0 +1,31 @@
+/* CategoryPanel con fuentes del sistema */
+.category-panel {
+  margin: 20px 0;
+  padding: 15px;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  cursor: pointer;
+  font-family: "Quicksand", sans-serif;
+}
+
+.category-panel h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.resource-list-container {
+  overflow-x: auto;
+}
+
+.resource-list {
+  display: flex;
+  gap: 15px;
+  padding: 0;
+  list-style: none;
+}
+
+.resource-list li {
+  list-style: none;
+  flex-shrink: 0;
+}

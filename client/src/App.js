@@ -5,45 +5,7 @@ import data from './data/data.json';
 import Header from './components/Header';
 import CategoryPage from './pages/CategoryPage';
 
-const ResourceItem = React.memo(function ResourceItem({ resource }) {
-  return (
-    <li className="resource-item">
-      <a href={resource.url} target="_blank" rel="noopener noreferrer" className="resource-link">
-        {resource.image && (
-          <img 
-            src={resource.image} 
-            alt={resource.title}
-            className="resource-logo"
-          />
-        )}
-        <span className="resource-title">{resource.title}</span>
-      </a>
-    </li>
-  );
-});
-
-const CategoryPanel = React.memo(function CategoryPanel({ category }) {
-  const navigate = useNavigate();
-
-  const handleClick = () => {
-    navigate(`/category/${category.id}`);
-  };
-
-  return (
-    <section className="category-panel" onClick={handleClick}>
-      <h2>
-        {category.name}
-      </h2>
-      <div className="resource-list-container">
-        <ul className="resource-list">
-          {category.resources.map((resource, index) => (
-            <ResourceItem key={index} resource={resource} />
-          ))}
-        </ul>
-      </div>
-    </section>
-  );
-});
+import CategoryPanel from './features/catalog/components/CategoryPanel/CategoryPanel';
 
 function App() {
   const [categories, setCategories] = useState([]);

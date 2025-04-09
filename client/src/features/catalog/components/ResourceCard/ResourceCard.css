@@ -1,0 +1,49 @@
+/* ResourceCard con fuentes del sistema */
+.resource-card {
+  min-width: 200px;
+  background: #f8f9fa0d;
+  border-radius: 6px;
+  padding: 12px;
+  transition: transform 0.2s;
+}
+
+.resource-card:hover {
+  transform: translateY(-3px);
+}
+
+.resource-link {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  flex-direction: row; /* Antes era column */
+  /* align-items: center;  */
+  height: 100%;
+}
+
+
+.resource-logo {
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-right: 12px; /* Antes era margin-bottom */
+}
+
+
+.resource-content {
+  flex: 1;
+}
+
+.resource-title {
+  margin: 0 0 5px 0;
+  color: rgba(0,0,0,0.5);
+  font-size: 16px;
+}
+
+.resource-description {
+  margin: 0;
+  color: rgba(0,0,0,0.3);
+  font-size: 14px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

@@ -10,14 +10,14 @@
           "description": "Aprende inglés con clases dinámicas",
           "videos": 320,
           "subscribers": "1.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/englishaddict"
         },
         {
           "type": "sitio",
           "title": "Duolingo",
           "description": "Aprendizaje gamificado de idiomas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://duolingo.com"
         },
         {
@@ -26,21 +26,21 @@
           "description": "Aprende español con historias",
           "videos": 150,
           "subscribers": "500K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/espanolconjuan"
         },
         {
           "type": "sitio",
           "title": "BBC Languages",
           "description": "Cursos gratuitos de idiomas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://bbc.co.uk/languages"
         },
         {
           "type": "app",
           "title": "HelloTalk",
           "description": "Intercambio de idiomas con nativos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://hellotalk.com"
         },
         {
@@ -49,7 +49,7 @@
           "description": "Aprende francés con lecciones",
           "videos": 200,
           "subscribers": "800K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/frenchpod101"
         }
       ]
@@ -64,14 +64,14 @@
           "description": "Tutoriales de diseño arquitectónico",
           "videos": 150,
           "subscribers": "850K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/30x40design"
         },
         {
           "type": "sitio",
           "title": "ArchDaily",
           "description": "Noticias y proyectos de arquitectura",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://archdaily.com"
         },
         {
@@ -80,21 +80,21 @@
           "description": "Tours de casas famosas",
           "videos": 300,
           "subscribers": "2.1M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/archdigest"
         },
         {
           "type": "sitio",
           "title": "Dezeen",
           "description": "Revista de arquitectura y diseño",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://dezeen.com"
         },
         {
           "type": "app",
           "title": "Morpholio Trace",
           "description": "App de dibujo arquitectónico",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://morpholioapps.com/trace"
         },
         {
@@ -103,7 +103,7 @@
           "description": "Visualización arquitectónica",
           "videos": 120,
           "subscribers": "400K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/showitbetter"
         }
       ]
@@ -116,7 +116,7 @@
           "type": "sitio",
           "title": "Politico",
           "description": "Noticias políticas internacionales",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://politico.com"
         },
         {
@@ -125,28 +125,28 @@
           "description": "Análisis político",
           "videos": 180,
           "subscribers": "750K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/politek"
         },
         {
           "type": "sitio",
           "title": "Congress.gov",
           "description": "Información legislativa de EE.UU.",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://congress.gov"
         },
         {
           "type": "podcast",
           "title": "The Daily",
           "description": "Análisis político diario",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://nytimes.com/thedaily"
         },
         {
           "type": "sitio",
           "title": "Ballotpedia",
           "description": "Enciclopedia de política americana",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://ballotpedia.org"
         },
         {
@@ -155,7 +155,7 @@
           "description": "Ciencia política explicada",
           "videos": 90,
           "subscribers": "300K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/polisci"
         }
       ]
@@ -168,7 +168,7 @@
           "type": "sitio",
           "title": "APA",
           "description": "Asociación Americana de Psicología",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://apa.org"
         },
         {
@@ -177,35 +177,35 @@
           "description": "Psicología en formato accesible",
           "videos": 400,
           "subscribers": "3.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/psych2go"
         },
         {
           "type": "sitio",
           "title": "Verywell Mind",
           "description": "Recursos de salud mental",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://verywellmind.com"
         },
         {
           "type": "podcast",
           "title": "The Psychology Podcast",
           "description": "Entrevistas con psicólogos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://scottbarrykaufman.com/podcast"
         },
         {
           "type": "app",
           "title": "Headspace",
           "description": "Meditación guiada",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://headspace.com"
         },
         {
           "type": "sitio",
           "title": "PsyArXiv",
           "description": "Artículos de psicología",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://psyarxiv.com"
         }
       ]
@@ -218,7 +218,7 @@
           "type": "sitio",
           "title": "Stanford Encyclopedia",
           "description": "Enciclopedia de filosofía",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://plato.stanford.edu"
         },
         {
@@ -227,28 +227,28 @@
           "description": "Filosofía explicada",
           "videos": 120,
           "subscribers": "1.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/philosophytube"
         },
         {
           "type": "sitio",
           "title": "Internet Encyclopedia",
           "description": "Enciclopedia de filosofía en línea",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://iep.utm.edu"
         },
         {
           "type": "podcast",
           "title": "Philosophize This!",
           "description": "Historia de la filosofía",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://philosophizethis.org"
         },
         {
           "type": "sitio",
           "title": "The Partially Examined Life",
           "description": "Discusiones filosóficas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://partiallyexaminedlife.com"
         },
         {
@@ -257,7 +257,7 @@
           "description": "Filosofía en cultura pop",
           "videos": 250,
           "subscribers": "2.8M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/wisecrack"
         }
       ]
@@ -272,14 +272,14 @@
           "description": "Tutoriales rápidos de programación",
           "videos": 250,
           "subscribers": "1.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/fireship"
         },
         {
           "type": "sitio",
           "title": "freeCodeCamp",
           "description": "Cursos gratuitos de programación",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://freecodecamp.org"
         },
         {
@@ -288,21 +288,21 @@
           "description": "Tutoriales de desarrollo web",
           "videos": 500,
           "subscribers": "2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/traversymedia"
         },
         {
           "type": "sitio",
           "title": "Stack Overflow",
           "description": "Preguntas y respuestas de programación",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://stackoverflow.com"
         },
         {
           "type": "app",
           "title": "SoloLearn",
           "description": "Aprende a programar en móvil",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://sololearn.com"
         },
         {
@@ -311,7 +311,7 @@
           "description": "Programación creativa",
           "videos": 180,
           "subscribers": "1.3M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/thecodingtrain"
         }
       ]
@@ -326,14 +326,14 @@
           "description": "Ciencia y educación",
           "videos": 180,
           "subscribers": "10M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/veritasium"
         },
         {
           "type": "sitio",
           "title": "ScienceDaily",
           "description": "Noticias científicas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://sciencedaily.com"
         },
         {
@@ -342,21 +342,21 @@
           "description": "Ciencia interesante",
           "videos": 300,
           "subscribers": "8M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/scishow"
         },
         {
           "type": "sitio",
           "title": "Nature",
           "description": "Revista científica",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://nature.com"
         },
         {
           "type": "podcast",
           "title": "Science Vs",
           "description": "Ciencia vs mitos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://gimletmedia.com/shows/science-vs"
         },
         {
@@ -365,7 +365,7 @@
           "description": "Ciencia en animaciones",
           "videos": 150,
           "subscribers": "15M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/kurzgesagt"
         }
       ]
@@ -380,14 +380,14 @@
           "description": "Matemáticas interesantes",
           "videos": 500,
           "subscribers": "4.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/numberphile"
         },
         {
           "type": "sitio",
           "title": "Khan Academy",
           "description": "Cursos de matemáticas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://khanacademy.org"
         },
         {
@@ -396,21 +396,21 @@
           "description": "Matemáticas visuales",
           "videos": 80,
           "subscribers": "3.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/3blue1brown"
         },
         {
           "type": "sitio",
           "title": "Wolfram Alpha",
           "description": "Motor de conocimiento computacional",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://wolframalpha.com"
         },
         {
           "type": "app",
           "title": "Photomath",
           "description": "Resuelve problemas matemáticos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://photomath.com"
         },
         {
@@ -419,7 +419,7 @@
           "description": "Matemáticas avanzadas",
           "videos": 100,
           "subscribers": "1.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/mathologer"
         }
       ]
@@ -434,14 +434,14 @@
           "description": "Análisis histórico",
           "videos": 120,
           "subscribers": "1.8M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/historiacivilis"
         },
         {
           "type": "sitio",
           "title": "History.com",
           "description": "Artículos y videos históricos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://history.com"
         },
         {
@@ -450,21 +450,21 @@
           "description": "Historia de la Primera Guerra Mundial",
           "videos": 200,
           "subscribers": "1.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/thegreatwar"
         },
         {
           "type": "sitio",
           "title": "Ancient History Encyclopedia",
           "description": "Enciclopedia de historia antigua",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://ancient.eu"
         },
         {
           "type": "podcast",
           "title": "Hardcore History",
           "description": "Historia en profundidad",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://dancarlin.com/hardcore-history-series"
         },
         {
@@ -473,7 +473,7 @@
           "description": "Historia en animaciones",
           "videos": 300,
           "subscribers": "2.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/extracredits"
         }
       ]
@@ -486,7 +486,7 @@
           "type": "sitio",
           "title": "Google Arts",
           "description": "Museos y colecciones",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://artsandculture.google.com"
         },
         {
@@ -495,21 +495,21 @@
           "description": "Arte y cultura",
           "videos": 150,
           "subscribers": "800K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/theartassignment"
         },
         {
           "type": "sitio",
           "title": "Artsy",
           "description": "Explorador de arte",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://artsy.net"
         },
         {
           "type": "app",
           "title": "Procreate",
           "description": "App de dibujo digital",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://procreate.art"
         },
         {
@@ -518,14 +518,14 @@
           "description": "Tutoriales de dibujo",
           "videos": 400,
           "subscribers": "3M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/drawwithjazza"
         },
         {
           "type": "sitio",
           "title": "DeviantArt",
           "description": "Comunidad de artistas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://deviantart.com"
         }
       ]
@@ -538,7 +538,7 @@
           "type": "sitio",
           "title": "Music Theory",
           "description": "Aprende teoría musical",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://www.musictheory.net"
         },
         {
@@ -547,21 +547,21 @@
           "description": "Análisis musical",
           "videos": 500,
           "subscribers": "2.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/rickbeato"
         },
         {
           "type": "sitio",
           "title": "SoundCloud",
           "description": "Plataforma de música",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://soundcloud.com"
         },
         {
           "type": "app",
           "title": "Yousician",
           "description": "Aprende a tocar instrumentos",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://yousician.com"
         },
         {
@@ -570,14 +570,14 @@
           "description": "Teoría musical avanzada",
           "videos": 200,
           "subscribers": "1.8M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/adamneely"
         },
         {
           "type": "sitio",
           "title": "Ultimate Guitar",
           "description": "Tablaturas y acordes",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://ultimate-guitar.com"
         }
       ]
@@ -592,14 +592,14 @@
           "description": "Conceptos económicos",
           "videos": 200,
           "subscribers": "2.1M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/economia1minuto"
         },
         {
           "type": "sitio",
           "title": "Investopedia",
           "description": "Diccionario económico",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://investopedia.com"
         },
         {
@@ -608,21 +608,21 @@
           "description": "Finanzas personales",
           "videos": 100,
           "subscribers": "1M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/theplainbagel"
         },
         {
           "type": "sitio",
           "title": "Bloomberg",
           "description": "Noticias económicas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://bloomberg.com"
         },
         {
           "type": "podcast",
           "title": "Planet Money",
           "description": "Economía explicada",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://npr.org/sections/money"
         },
         {
@@ -631,7 +631,7 @@
           "description": "Economía de países",
           "videos": 150,
           "subscribers": "1.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/economicsexplained"
         }
       ]
@@ -644,7 +644,7 @@
           "type": "sitio",
           "title": "MedlinePlus",
           "description": "Información médica",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://medlineplus.gov"
         },
         {
@@ -653,21 +653,21 @@
           "description": "Salud basada en evidencia",
           "videos": 300,
           "subscribers": "1.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/healthcaretriage"
         },
         {
           "type": "sitio",
           "title": "WebMD",
           "description": "Información de salud",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://webmd.com"
         },
         {
           "type": "app",
           "title": "MyFitnessPal",
           "description": "Seguimiento nutricional",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://myfitnesspal.com"
         },
         {
@@ -676,14 +676,14 @@
           "description": "Consejos médicos",
           "videos": 200,
           "subscribers": "4M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/doctormike"
         },
         {
           "type": "sitio",
           "title": "CDC",
           "description": "Centro de control de enfermedades",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://cdc.gov"
         }
       ]
@@ -698,14 +698,14 @@
           "description": "Recetas paso a paso",
           "videos": 350,
           "subscribers": "3.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/recetascocina"
         },
         {
           "type": "sitio",
           "title": "AllRecipes",
           "description": "Recetas y reseñas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://allrecipes.com"
         },
         {
@@ -714,14 +714,14 @@
           "description": "Recetas de películas/TV",
           "videos": 200,
           "subscribers": "5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/bingingwithbabish"
         },
         {
           "type": "app",
           "title": "Tasty",
           "description": "Recetas en video",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://tasty.co"
         },
         {
@@ -730,14 +730,14 @@
           "description": "Recetas clásicas",
           "videos": 500,
           "subscribers": "3M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/foodwishes"
         },
         {
           "type": "sitio",
           "title": "Serious Eats",
           "description": "Cocina con ciencia",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://seriouseats.com"
         }
       ]
@@ -750,7 +750,7 @@
           "type": "sitio",
           "title": "ESPN",
           "description": "Noticias deportivas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://www.espn.com"
         },
         {
@@ -759,21 +759,21 @@
           "description": "Análisis deportivo",
           "videos": 200,
           "subscribers": "1M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/theathletic"
         },
         {
           "type": "sitio",
           "title": "NFL.com",
           "description": "Fútbol americano",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://nfl.com"
         },
         {
           "type": "app",
           "title": "Strava",
           "description": "Seguimiento de actividad",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://strava.com"
         },
         {
@@ -782,14 +782,14 @@
           "description": "Fútbol internacional",
           "videos": 300,
           "subscribers": "3M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/fifatv"
         },
         {
           "type": "sitio",
           "title": "NBA",
           "description": "Baloncesto profesional",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://nba.com"
         }
       ]
@@ -802,7 +802,7 @@
           "type": "sitio",
           "title": "Lonely Planet",
           "description": "Guías de viaje",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://www.lonelyplanet.com"
         },
         {
@@ -811,21 +811,21 @@
           "description": "Consejos de viaje",
           "videos": 400,
           "subscribers": "1.5M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/woltersworld"
         },
         {
           "type": "sitio",
           "title": "TripAdvisor",
           "description": "Reseñas de viajes",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://tripadvisor.com"
         },
         {
           "type": "app",
           "title": "Google Trips",
           "description": "Planificador de viajes",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://google.com/travel"
         },
         {
@@ -834,14 +834,14 @@
           "description": "Viajes económicos",
           "videos": 150,
           "subscribers": "800K",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/thetravelintern"
         },
         {
           "type": "sitio",
           "title": "Atlas Obscura",
           "description": "Lugares únicos para visitar",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://atlasobscura.com"
         }
       ]
@@ -856,14 +856,14 @@
           "description": "Lo último en tecnología",
           "videos": 180,
           "subscribers": "1.2M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/tecnologiahoy"
         },
         {
           "type": "sitio",
           "title": "The Verge",
           "description": "Noticias tecnológicas",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://theverge.com"
         },
         {
@@ -872,21 +872,21 @@
           "description": "Reseñas de tecnología",
           "videos": 300,
           "subscribers": "12M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/marquesbrownlee"
         },
         {
           "type": "sitio",
           "title": "Ars Technica",
           "description": "Tecnología en profundidad",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://arstechnica.com"
         },
         {
           "type": "podcast",
           "title": "The WAN Show",
           "description": "Noticias semanales de tecnología",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/linustechtips"
         },
         {
@@ -895,7 +895,7 @@
           "description": "Unboxings de productos",
           "videos": 500,
           "subscribers": "15M",
-          "image": "",
+          "image": "client/src/data/images/letter.png",
           "url": "https://youtube.com/unboxtherapy"
         }
       ]
